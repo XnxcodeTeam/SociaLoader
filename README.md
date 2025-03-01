@@ -6,7 +6,7 @@ Free Tools Downloader Photo/Video Of Social Media
 pkg upadte -y && pkg upgrade -y
 pkg install python
 pkg install git
-git clone https://github.com/W4hyuXD/SociaLoader
+git clone https://github.com/XNXCodeTeam/SociaLoader
 cd SociaLoader
 pip install -r requirements.txt
 python3 Run.py
